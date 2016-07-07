@@ -1,0 +1,22 @@
+elytra:
+  itemDefaultUses: 80
+
+messages:
+  prefix: §l•ElytraFlight•
+  command: §3§lDon't forget your Elytra !
+  notPlayer: §c§lYou must be a player to use this command !
+  notPermCommand: §c§lYou don't have access to this command !
+  notPermUse: §c§lYou can't use this !
+  particlesOn: §a§lParticles enabled.
+  particlesOff: §6§lParticles disabled.
+  # Please don't remove the "{0}"...
+  particlesChange: §3§lYou have changed particles effect to {0}
+  noMoreUse: §c§lYou run out of fuel...
+  
+helpMsg:
+  elytra: §a§lGive item with the default use number.
+  elytra_number: §a§lGive item with the given number of uses.
+  elytra_particle: §a§lEnable or Disable particles.
+  elytra_change: §a§lChange the particle effect while gliding.
+  elytra_list: §a§lShow the particles list.
+  elytra_reload: §a§lReload the config.

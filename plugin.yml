@@ -1,0 +1,9 @@
+name: ElytraFlight
+version: 1.0
+description: ElytraFlight. Propulse yourself to the top.
+author: Akio08
+main: ovh.akio.mc.ElytraFlight.Main
+database: false
+commands:
+  elytra:
+    description: ElytraFlight main command
